@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+}
+@media screen and (max-width: 1600px) {
+  .mui-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+    width: 280px !important;
+  }
+  .mui-k8hkpu {
+    width: calc(100% - 280px) !important;
+  }
+  .mui-1v0kw3g {
+    width: 280px !important;
+  }
+  .mui-9l2zgc-BottomContent {
+    width: 280px !important;
+  }
+  #tableColumn th,
+  #tableColumn td {
+    width: 268px;
+    padding: 24px 10px;
+  }
+
+  #tableColumn th h6 {
+    font-size: 16px !important;
+  }
+  .mui-1g9vy6r-MuiTypography-root-HeadingName {
+    font-size: 14px !important;
+  }
+  .mui-1otkoio-MuiAvatar-root-StyledAvatar {
+    width: 50px !important;
+    height: 50px !important;
+    font-size: 20px !important;
+  }
+  .mui-uaz5ou-MuiTypography-root-UserName {
+    font-size: 22px !important;
+    margin-left: 5px !important;
+  }
+  .mui-1vjuuwl-MuiTypography-root {
+    font-size: 18px !important;
+  }
+  .mui-1eujys5-MuiFormControlLabel-root-StyledFormControlLabel
+    .MuiTypography-body1 {
+    font-size: 16px !important;
+  }
+  .mui-1eujys5-MuiFormControlLabel-root-StyledFormControlLabel {
+    margin: 0 !important;
+    margin-left: -11px !important;
+  }
+  .mui-f6mhro-CompleteBeforeThursday {
+    font-size: 14px !important;
+  }
+  .mui-1w0iu20-IHaveMarked {
+    font-size: 12px !important;
+  }
+  .mui-1vjp54l-MuiTypography-root-AccordionHeading {
+    font-size: 16px !important;
+  }
+  .mui-1izsqpb-LeftContent {
+    font-size: 16px !important;
+  }
+  .mui-hpx57r-LogoStyled {
+    margin-left: 14px !important;
+  }
+  .mui-d0cwcr-MuiButtonBase-root-MuiIconButton-root {
+    margin-left: 0 !important;
+  }
+  .mui-vfvvt0-MuiTypography-root-TitleText {
+    font-size: 24px !important;
+  }
+  .mui-1u52fu8-Text {
+    font-size: 40px !important;
+  }
+  .mui-1m4nke1-MuiButtonBase-root-MuiButton-root-StyledButton {
+    min-width: 200px !important;
+    min-height: 45px !important;
+  }
+  .mui-fr9rf7-FooterWrapper {
+    width: 100%;
+    gap: 10px !important;
+  }
+  .footerImg {
+    width: 175px !important;
+  }
+  .mui-72att8-LeftContent {
+    font-size: 16px !important;
+    word-break: break-word !important;
+  }
+  .mui-pmd8j8-CompleteBeforeThursday {
+    font-size: 14px !important;
+  }
+  .mui-1ejshnw-MuiButtonBase-root-MuiButton-root-StyledButton {
+    min-width: 185px !important;
+    min-height: 45px !important;
+  }
+  .mui-1m5xx2x-Label {
+    font-size: 13px !important;
+  }
+  .mui-1rp3dah-MessageText {
+    font-size: 13px !important;
+  }
+  .mui-1lgh1sd-ChatContainer {
+    left: 39% !important;
+  }
+  .mui-3fg5sn-ChatBoxContainer {
+    left: 39% !important;
+  }
+  .mui-1b3yimh-MuiPaper-root-MuiCard-root-StyledCard {
+    width: auto !important;
+  }
+  .mui-1r6xjne-TabContainer button:first-child {
+    width: auto;
+    min-width: auto;
+    padding: 8px 16px;
+  }
+  .mui-1r6xjne-TabContainer button {
+    min-width: 85px;
+    width: 85px;
+    padding: 8px 16px;
+  }
+  .mui-cyok2n-LeftContent {
+    font-size: 14px !important;
+  }
+}
